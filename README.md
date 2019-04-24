@@ -1,7 +1,7 @@
 # plot_socib_rv_adcp
 The plot_socib_rv_adcp is a set of python scripts and functions developed at SOCIB to manage the data collected by a VM-ADCP mounted onboard the SOCIB Research Vessel. They are able to plot the main variables (including QC variables) stored into the SOCIB netcdf files and plot them over the time dimension
 
-##Prerequisites:
+## Prerequisites:
 
     See requirements file for extralibraries needed.
     Customize matplotlibrc settings (https://matplotlib.org/tutorials/introductory/customizing.html)
